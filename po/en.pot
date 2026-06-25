@@ -1,0 +1,11 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: example\n"
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Ahoy! This is how we greet in English."
+msgstr "Ahoy! This is how we greet in English."
+
+msgid "openSUSE"
+msgstr "openSUSE"
